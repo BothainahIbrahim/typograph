@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Denson-Round";
+    src: url("./Denson-Sans-Serif-Font-Family/TTF/Denson-Round.ttf") format("truetype");
+
+}
+
+
+@font-face {
+    font-family: "Denson-BoldRound";
+    src: url("./Denson-Sans-Serif-Font-Family/TTF/Denson-BoldRound.ttf") format("truetype");
+}
+
+
+*{
+    margin: 24px;
+    font-family: "Denson-Round";
+}
+
+body{margin-top: 20%;
+margin-left: 50%;
+
+}
+
+
+/*
+p{
+    font-family: "Forza A", "Forza B";
+font-style: normal;
+font-weight: 400;
+
+}*/
+
+.font-one {
+   /* font-family: 'Denson-BoldRound';*/
+   font-family: "Operator A", "Operator B";
+font-style: italic;
+font-weight: 800;
+
+   
+
+
+}
+
+.font-two {
+   /* font-family: 'Denson-Round';*/
+   font-family: "Forza A", "Forza B";
+   font-style: normal;
+   font-weight: 700;
+font-size: 20px;
+color: red;
+}
+
+.test {
+    font-family: "Topaz Background A", "Topaz Background B";
+    font-style: normal;
+    font-weight: 400;
+    
+font-size: 35px;
+}
