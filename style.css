@@ -10,11 +10,11 @@
     src: url("./Denson-Sans-Serif-Font-Family/TTF/Denson-BoldRound.ttf") format("truetype");
 }
 
-
+/*
 *{
     margin: 24px;
     font-family: "Denson-Round";
-}
+}*/
 
 body{margin-top: 20%;
 margin-left: 50%;
